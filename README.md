@@ -1,1 +1,5 @@
-weather app using React and Redux.
+Blogpost using React and Redux.
+
+
+> npm install
+> npm start
